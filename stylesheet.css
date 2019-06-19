@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://raw.githubusercontent.com/manduulya/mps/gh-pages/header.jpg");
+    background-image: url("header.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0;
@@ -125,10 +125,10 @@ h3{
     transform: scaleX(1);
 }
 .face.active{
-    content: url('src/img/fbLogoToggle.png');
+    content: url('fbLogoToggle.png');
 }
 .insta.active{
-    content: url("src/img/instaLogoToggle.png");
+    content: url("instaLogoToggle.png");
 }
 /* body content style */
 #mainContent{
